@@ -3,10 +3,10 @@
   <img align="left" alt="azharnian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/azharnian">
-  <img align="left" alt="azharnian | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="azharnian | Twitter" width="22px" src="https://github.com/hussainweb/hussainweb/raw/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/azharnian/">
-  <img align="left" alt="azharnian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="azharnian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nian88)
