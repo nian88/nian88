@@ -61,7 +61,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats-nian88s-projects.vercel.app/api?username=nian88&show_icons=true&theme=gotham" alt="azharnian" />
+<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=nian88&show_icons=true&theme=gotham" alt="azharnian" />
 
 
 
