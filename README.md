@@ -2,11 +2,11 @@
 <a href="https://www.instagram.com/azharnian/">
   <img align="left" alt="azharnian's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/960px-Instagram_icon.png" />
 </a>
-<a href="https://twitter.com/azharnian">
-  <img align="left" alt="azharnian | Twitter" width="22px" src="https://images.icon-icons.com/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png" />
+<a href="https://thread.com/@azhar_nian">
+  <img align="left" alt="azharnian | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Threads_%28app%29.png" />
 </a>
 <a href="https://www.linkedin.com/in/azharnian/">
-  <img align="left" alt="azharnian's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
+  <img align="left" alt="azharnian's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Wbseries_linkdin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nian88)
@@ -18,7 +18,7 @@ hi, i'm [Azhar Nian](https://niandev.me/), a passionate self-taught full stack w
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
 
 - 💼 any freelance work? do reach, [email](mailto:azharnian@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -61,7 +61,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats-k83xwsxug-nian88s-projects.vercel.app/api?username=nian88&show_icons=true&theme=gotham" alt="azharnian" />
+<p align="center"> <img src="https://github-readme-stats-nian88s-projects.vercel.app/api?username=nian88&show_icons=true&theme=gotham" alt="azharnian" />
 
 
 
