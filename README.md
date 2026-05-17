@@ -1,12 +1,12 @@
 ### hey there 
 <a href="https://www.instagram.com/azharnian/">
-  <img align="left" alt="azharnian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="azharnian's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/960px-Instagram_icon.png" />
 </a>
 <a href="https://twitter.com/azharnian">
-  <img align="left" alt="azharnian | Twitter" width="22px" src="https://github.com/hussainweb/hussainweb/raw/main/icons/twitter.png" />
+  <img align="left" alt="azharnian | Twitter" width="22px" src="https://images.icon-icons.com/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png" />
 </a>
 <a href="https://www.linkedin.com/in/azharnian/">
-  <img align="left" alt="azharnian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="azharnian's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nian88)
@@ -61,7 +61,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nian88&show_icons=true&theme=gotham" alt="azharnian" />
+<p align="center"> <img src="https://github-readme-stats-k83xwsxug-nian88s-projects.vercel.app/api?username=nian88&show_icons=true&theme=gotham" alt="azharnian" />
 
 
 
